@@ -1,0 +1,4 @@
+[submodule "memcached-loadtester"]
+  path = memcached-loadtester
+  url = https://github.com/shinsakukataoka/memcached-loadtester.git
+
